@@ -24,4 +24,10 @@ Se hicieron 5 commits para actualizar el archivo
 
 ![](g5.png)
 
+Los principales comandos utilizados fueron:
 
+`git add -A`
+
+`git commit -m`
+
+`git push`
