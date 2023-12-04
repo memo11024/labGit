@@ -18,4 +18,10 @@ Nota: Se creó un token para asociar los repositorios local y remoto
 
 3. Modificación del archivo README.md
 
+Se hicieron 5 commits para actualizar el archivo  
+
 ![](G4.png)
+
+![](g5.png)
+
+
