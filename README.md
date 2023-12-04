@@ -31,3 +31,15 @@ Los principales comandos utilizados fueron:
 `git commit -m`
 
 `git push`
+
+## Generación de la rama final de semestre   
+
+![](R1.png)
+
+![](R2.png)
+
+![](R3.png)
+
+![](R4.png)
+
+![](R5.png)
