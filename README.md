@@ -45,4 +45,11 @@ Los principales comandos utilizados fueron:
 ![](R5.png)
 
 ## Cambios para la ultima rama 
-Ultimo cambio 
+último cambio
+
+## Prueba de pull
+
+pull realizado despues de las solicitudes de extracción en GitHub
+
+![](gitpull.png)
+
